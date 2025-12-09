@@ -1,4 +1,4 @@
-# ai-test
+# ai-chat-test (100% free)
 
 **EN**: Personal finance AI assistant using Gemini and Llama with RAG (Retrieval Augmented Generation) for contextual responses.
 
