@@ -176,3 +176,4 @@ function fallbackIntentExtraction(query: string): QueryIntent {
     keywords: query.split(/\s+/).filter(w => w.length > 3)
   };
 }
+
